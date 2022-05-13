@@ -1,0 +1,10 @@
+===============================
+YYC Algorithm with improvements: 
+  Sorting rows
+  Removing repeated columns
+-------------------------------
+Basic matrix, IT found, Seconds
+-------------------------------
+1872x85, Columns (original): 85. Columns (compact): 73
+4264555 -> 12741976, 1427.077
+========================
